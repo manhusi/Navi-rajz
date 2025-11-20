@@ -1,0 +1,5 @@
+{
+  "name": "NanoSketch MVP",
+  "description": "A minimal MVP that generates hand-drawn style illustrations using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
